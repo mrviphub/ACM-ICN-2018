@@ -1,5 +1,6 @@
 # NDN, CoAP, and MQTT: A Comparative Measurement Study in the IoT
 Code and documentation to reproduce our experimental results
+paper: NDN, CoAP, and MQTT: A Comparative Measurement Study in the IoT
 
 ## Code
 The explicit RIOT version is included as a submodule in this repository.
